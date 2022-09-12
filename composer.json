@@ -1,0 +1,16 @@
+{
+    "name": "nathantudc/jdsdk",
+    "description": "京东联盟PHPSDK",
+    "autoload": {
+        "psr-4": {
+            "Nathantudc\\Jdsdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nathantudc",
+            "email": "610807286@qq.com"
+        }
+    ],
+    "require": {}
+}
