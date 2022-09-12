@@ -7,9 +7,9 @@
             "ACES\\" : "security"
         }
     },
-    "name" : "jos/aces-php-sdk",
+    "name" : "nathantudc/jdsdk",
     "type" : "library",
-    "description": "aces php sdk",
+    "description": "京东联盟sdk",
     "version": "1.0.0",
     "require" : {
         "php" : ">=5.6",
