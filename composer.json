@@ -4,13 +4,15 @@
     },
     "autoload" : {
         "psr-4" : {
-            "ACES\\" : "security"
+            "ACES\\" : "security",
+            "nathantudc\\JD\\": "jd/",
+            "nathantudc\\JD\\Request\\": "jd/request/"
         }
     },
     "name" : "nathantudc/jdsdk",
     "type" : "library",
     "description": "京东联盟sdk",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "require" : {
         "php" : ">=5.6",
         "monolog/monolog" : "1.24.0",
