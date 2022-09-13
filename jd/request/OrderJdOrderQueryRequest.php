@@ -1,4 +1,6 @@
 <?php
+ namespace Nathantudc\JD\Request;
+
 class OrderJdOrderQueryRequest
 {
 

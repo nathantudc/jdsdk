@@ -1,4 +1,7 @@
 <?php
+namespace Nathantudc\JD;
+use DateTimeZone;
+
 class JdClient
 {
 	public $serverUrl = "https://api.jd.com/routerjson";
